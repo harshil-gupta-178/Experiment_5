@@ -1,0 +1,21 @@
+body {
+font-family: sans-serif;
+display: grid;
+place-content: center;
+min-height: 100vh;
+margin: 0;
+background: #f0f0f0;
+}
+.card {
+background: #fff;
+padding: 20px;
+border-radius: 8px;
+text-align: center;
+}
+form {
+display: flex;
+gap: 5px;
+}
+.hidden {
+display: none;
+}
